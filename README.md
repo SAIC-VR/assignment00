@@ -39,7 +39,7 @@ Saving your scene
 
 ## 4.Submit
 
-First Header  | Second Header
+              | 
 ------------- | -------------
 Submit your work  | Take a screenshot of your Scene view and upload it to the Team Drive folder
          | Assignments/Assignment1/Assignment01_LastName-v1.png.
