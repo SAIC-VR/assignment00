@@ -39,10 +39,10 @@ Saving your scene
 
 ## 4.Submit
 
-              | 
-------------- | -------------
-Submit your work  | Take a screenshot of your Scene view and upload it to the Team Drive folder
-         | Assignments/Assignment1/Assignment01_LastName-v1.png.
+|              |            |
+| ------------- | ------------- |
+| Submit your work  | Take a screenshot of your Scene view and upload it to the Team Drive folder |
+| --- | Assignments/Assignment1/Assignment01_LastName-v1.png. |
 
 
 
@@ -61,9 +61,9 @@ Submit your work  | Take a screenshot of your Scene view and upload it to the Te
 
 
 ## 6. Grading Rubric
-    4 - Excellent |  3 - Good | 2 - Fair | 1 - Unsatisfactory
------------------ | ----------| -------- | -------------  
-All 5 goals have been completed fully | 4 out of 5 of the goals have been completed | 3 out of 5 of the goals have been completed | 2 or less of the goals have been completed
+|    4 - Excellent |  3 - Good | 2 - Fair | 1 - Unsatisfactory |
+|----------------- | ----------| -------- | -------------  |
+| All 5 goals have been completed fully | 4 out of 5 of the goals have been completed | 3 out of 5 of the goals have been completed | 2 or less of the goals have been completed |
 
 
 
