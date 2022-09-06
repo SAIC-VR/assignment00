@@ -47,11 +47,10 @@ You can share your GitHub repo with me by sharing the url in Slack’s channel a
 
 ---
 
-6. Potential Resources
-Unity Interface Guide (PDF 240 KB)
-
-Navigation in the Unity Editor (10 min)
-Lynda tutorial: Unity 3D 2019 Essential Training 
-1. Setting up the Unity Project (9 min)
-2. Understanding the Unity Interface (~14 min )
-The Unity Interface Overview - Unity Official Tutorials (5 min)
+## 5. Potential Resources
+1. [Unity Interface Guide](https://drive.google.com/file/d/1msQ8NN1AIsXw7ZOvzqzvkcPZsejBCzUr/view?usp=sharing) (PDF 240 KB)
+2. [Navigation in the Unity Editor](https://learn.unity.com/tutorial/navigation-in-the-editor-2019?start=true#5d9b6e7aedbc2a67205d3f66) (10 min)
+	3. Lynda tutorial: [Unity 3D 2021 Essential Training ](https://www.linkedin.com/learning/unity-3d-2021-essential-training/project-setup-overview?autoplay=true&resume=false&u=2219506)
+		* Setting up the Unity Project (9 min)
+		* Understanding the Unity Interface (~14 min ) 
+3. [Unity Official Tutorials](https://www.youtube.com/watch?v=D7v2pjke5sc) (5 min)
