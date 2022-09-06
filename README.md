@@ -1,2 +1,2 @@
-# assignment00
-VR class assignment 0, getting familiar with Unity
+# assignment 01
+VR class assignment 1, getting familiar with Unity
