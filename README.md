@@ -58,3 +58,12 @@ Submit your work  | Take a screenshot of your Scene view and upload it to the Te
 		* Setting up the Unity Project (9 min)
 		* Understanding the Unity Interface (~14 min ) 
 3. [Unity Official Tutorials](https://www.youtube.com/watch?v=D7v2pjke5sc) (5 min)
+
+
+## 6. Grading Rubric
+    4 - Excellent |  3 - Good | 2 - Fair | 1 - Unsatisfactory
+----------------- | ----------| -------- | -------------  
+All 5 goals have been completed fully | 4 out of 5 of the goals have been completed | 3 out of 5 of the goals have been completed | 2 or less of the goals have been completed
+
+
+
