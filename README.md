@@ -38,12 +38,16 @@ Saving your scene
 ---
 
 ## 4.Submit
-|---|---|
-| Submit your work | Take a screenshot of your Scene view and upload it to the Team Drive folder |
-|    |  Assignments/Assignment1/Assignment01_LastName-v1.png. |
 
-BONUS: It is possible to use version-control software like Github to track and evaluate projects
-You can share your GitHub repo with me by sharing the url in Slack’s channel assignments 
+First Header  | Second Header
+------------- | -------------
+Submit your work  | Take a screenshot of your Scene view and upload it to the Team Drive folder
+         | Assignments/Assignment1/Assignment01_LastName-v1.png.
+
+
+
+> BONUS: It is possible to use version-control software like Github to track and evaluate projects
+> You can share your GitHub repo with me by sharing the url in Slack’s channel assignments 
 
 ---
 
